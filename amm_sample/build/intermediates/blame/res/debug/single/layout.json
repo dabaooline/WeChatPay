@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_submenu.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_submenu.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_menu_list_layout.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\alert_dialog_menu_list_layout.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_list_content.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_list_content.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\pay.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\pay.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_image.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_image.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_content_domainmail.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_content_domainmail.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_title.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_title.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_menu_layout.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\alert_dialog_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_example_ui.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_example_ui.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_menu_list_layout_special.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\alert_dialog_menu_list_layout_special.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_menu_list_layout_cancel.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\alert_dialog_menu_list_layout_cancel.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_catalog.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_catalog.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\add_fav_to_wx.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\add_fav_to_wx.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_content_choice.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_content_choice.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_content_domainmaillist.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_content_domainmaillist.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_menu_list_layout_title.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\alert_dialog_menu_list_layout_title.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_screen.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_screen.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\image_button.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\image_button.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\sendrequest_dialog.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\sendrequest_dialog.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_widget_empty.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_widget_empty.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\webalert.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\webalert.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_dialog_edittext.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\security_image.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\security_image.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\pay_result.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\pay_result.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_info.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_info.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_null.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_null.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_self_vuser.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_self_vuser.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\entry.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\entry.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_activity.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_activity.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\send_to_wx.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\send_to_wx.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_child.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_child.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\show_from_wx.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\show_from_wx.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\get_from_wx.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\get_from_wx.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_checkbox.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_checkbox.xml"
+    },
+    {
+        "merged": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\build\\intermediates\\res\\merged\\debug\\layout\\mm_preference_content_keyvalue.xml",
+        "source": "E:\\haihong\\WeChatpay\\WeChatPay\\amm_sample\\res\\layout\\mm_preference_content_keyvalue.xml"
+    }
+]
